@@ -4,4 +4,5 @@
 `photo_synthesis.java` 合成兩張照片\
 `reverse.java` 模反元素 \
 pip install pwntools \
-`pwm.py` 本地執行
+`pwm.py` 本地執行 \
+`https://ncviewer.com/` 線上gcode
