@@ -5,4 +5,5 @@
 `reverse.java` 模反元素 \
 pip install pwntools \
 `pwm.py` 本地執行 \
-`https://ncviewer.com/` 線上gcode
+`https://ncviewer.com/` 線上gcode \
+`unzip 'Forensics is fun.pptm' -d macro` 檔案解壓縮
