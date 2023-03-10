@@ -10,9 +10,11 @@
 `unzip 'Forensics is fun.pptm' -d macro` 檔案解壓縮 \
 `strings 檔案 | grep pico` 讀取字串檔案\
 `grep -r` 查找關鍵字\
+`grep -v` 查找ip\
 `rm -f *` 刪除當前目錄下的所有型別的檔案\
 `touch 新檔案` 新增檔案 \
-`base64 -d` base64解碼
+`base64 -d` base64解碼 \
+`awk` 分割欄位
 ## 常用解碼
 `https://ncviewer.com/` 線上gcode \
 `https://coding.tools/tw/decimal-to-hex` 進制轉換\
