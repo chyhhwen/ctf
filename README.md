@@ -6,6 +6,7 @@
 `pip install pwntools` \
 `pwm.py` 本地執行 \
 `unzip 'Forensics is fun.pptm' -d macro` 檔案解壓縮 \
+`strings 檔案 | grep pico` 讀取字串檔案\
 `grep -r` 查找關鍵字\
 `rm -f *` 刪除當前目錄下的所有型別的檔案\
 `touch 新檔案` 新增檔案 \
