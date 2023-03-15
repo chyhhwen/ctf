@@ -12,13 +12,15 @@
 `grep -r` 查找關鍵字\
 `grep -v` 查找ip\
 `rm -f *` 刪除當前目錄下的所有型別的檔案\
-`touch 新檔案` 新增檔案 \
-`base64 -d` base64解碼 \
-`awk` 分割欄位
+`touch 新檔案` 新增檔案\
+`base64 -d` base64解碼\
+`awk` 分割欄位\
+`sed` 過濾文字
 ## 常用解碼
 `https://ncviewer.com/` 線上gcode \
 `https://coding.tools/tw/decimal-to-hex` 進制轉換\
 `https://www.rapidtables.com/convert/number/binary-to-ascii.html` 二進制轉字元\
 `http://www.unit-conversion.info/texttools/octal/` ascii轉字元\
-`https://www.rapidtables.com/convert/number/hex-to-ascii.html` 十六進制轉字元
+`https://www.rapidtables.com/convert/number/hex-to-ascii.html` 十六進制轉字元\
+`https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers` HTTP-header查表
 
