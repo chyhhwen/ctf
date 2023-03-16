@@ -19,7 +19,8 @@
 `base64 -d` base64解碼\
 `awk` 分割欄位\
 `sed` 過濾文字 \
-`curl --user-agent "[User Agent]" [URL]` 客戶端設備訊息
+`curl --user-agent "[User Agent]" [URL]` 客戶端設備訊息 \
+`steghide extract -sf *.bmp -p (password)` 隱寫工具
 ## 參考文件
 `https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers` HTTP-header查表\
 `https://segmentfault.com/a/1190000023897623` curl用法
