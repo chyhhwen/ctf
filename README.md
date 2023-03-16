@@ -9,7 +9,8 @@
 `pip install pwntools` \
 `pip3 install flask-unsign`
 ## LINUX語法
-`unzip 'Forensics is fun.pptm' -d macro` 檔案解壓縮 \
+`unzip 'Forensics is fun.pptm' -d macro` *.zip解壓縮 \
+`tar xvf *.tar` *.tar解壓縮 \
 `strings 檔案 | grep pico` 讀取字串檔案\
 `grep -r` 查找關鍵字\
 `grep -v` 查找ip\
