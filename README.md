@@ -23,7 +23,8 @@
 `steghide extract -sf *.bmp -p (password)` 隱寫工具
 ## 參考文件
 `https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers` HTTP-header查表\
-`https://segmentfault.com/a/1190000023897623` curl用法
+`https://segmentfault.com/a/1190000023897623` curl用法 \
+`https://www.mscs.dal.ca/~selinger/md5collision/` md5範例檔
 ## 常用解碼
 `https://ncviewer.com/` 線上gcode \
 `https://coding.tools/tw/decimal-to-hex` 進制轉換\
