@@ -1,6 +1,7 @@
 # CTF
 ## 套件安裝
 `pip install pwntools` \
+`pip install gmpy2` \
 `pip3 install flask-unsign`
 ## LINUX語法
 `unzip 'Forensics is fun.pptm' -d macro` *.zip解壓縮 \
