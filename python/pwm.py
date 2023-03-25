@@ -1,5 +1,5 @@
 from pwn import *
-
+i = ""
 r = remote('mercury.picoctf.net', 59616)
 print(r.recvuntil(b'2) View my portfolio\n').decode())
 r.sendline(b'1')
