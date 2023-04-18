@@ -26,5 +26,6 @@
 `https://www.rapidtables.com/convert/number/binary-to-ascii.html` 二進制轉字元\
 `http://www.unit-conversion.info/texttools/octal/` ascii轉字元\
 `https://www.rapidtables.com/convert/number/hex-to-ascii.html` 十六進制轉字元\
-`http://jsnice.org/` 線上javascript工具
+`http://jsnice.org/` 線上javascript工具 \
+`http://www.atoolbox.net/Tool.php?Id=777` 柵欄密碼
 
