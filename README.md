@@ -1,4 +1,4 @@
-# CTF
+# CTF練習
 ## 套件安裝
 `pip install pwntools` \
 `pip install gmpy2` \
